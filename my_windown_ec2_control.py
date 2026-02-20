@@ -4,7 +4,7 @@ import subprocess
 import sys
 
 REGION = "ap-northeast-2"
-INSTANCE_ID = "i-068bf298be44c95c4"  # EC2 인스턴스 ID
+INSTANCE_ID = "i-0123aa7460d4cd545"  # EC2 인스턴스 ID
 RDP_FILENAME = "MyInstance.rdp"
 USERNAME = "Administrator"
 
